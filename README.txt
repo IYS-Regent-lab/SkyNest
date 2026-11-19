@@ -1,0 +1,1 @@
+Open index.html to start. Six pages are linked together and share style.css and script.js. The contact form uses mailto:hello@example.com as a placeholder; replace it with an approved real email before real use. Images load from Unsplash and need internet access. This is a demonstration website, not a live booking system.
